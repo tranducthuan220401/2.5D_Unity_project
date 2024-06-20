@@ -38,6 +38,7 @@ List the main features of your game:
   <img src="./Images/a1.png" style="width:400px;"/>
 
 ## Installation
+Since this is only a prototype, there is no application available yet. However, you can still install it directly on Unity by following these steps
 
 ### Prerequisites
 
