@@ -23,8 +23,8 @@ List the main features of your game:
   <img src="./Images/is1.png" style="width:300px;"/> <img src="./Images/is2.png" style="width:300px;"/>
 - Inventory system: This is an item management system using containers or chests with basic functions such as picking up, dropping, or placing items.  
   For example: crafting tables, planting crops, dropping items,Changing the held item,...  
-  <img src="./Images/ins1.png" style="width:400px;"/> <img src="./Images/ins2.png" style="width:400px;"/>  
-  <img src="./Images/ins3.png" style="width:400px;"/> <img src="./Images/ins4.png" style="width:400px;"/>
+  <img src="./Images/ins1.png" style="width:350px;"/> <img src="./Images/ins2.png" style="width:350px;"/>  
+  <img src="./Images/ins3.png" style="width:350px;"/> <img src="./Images/ins4.png" style="width:350px;"/>
 - Crafting system: This is a crafting or smelting/cooking feature for creating necessary items using specific recipes.  
   For example: smelting gold ore to gold, crafting sticks from wood, crafting torches from sticks and coal,...  
   <img src="./Images/cs1.png" style="width:400px;"/> <img src="./Images/cs2.png" style="width:400px;"/>  
