@@ -8,6 +8,7 @@ Welcome to the 2.5D RPG Game Project, a personal project focusing on adventure/s
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Other](#other)
 
 ## Introduction
 
@@ -50,3 +51,6 @@ To get a local copy up and running follow these simple steps:
 
 1. Add project 
 - After preparing everything, simply add the project to Unity Hub and run it.
+## Other
+- Explore more projects at [here](https://github.com/tranducthuan220401)
+
