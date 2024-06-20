@@ -12,7 +12,7 @@ Welcome to the 2.5D RPG Game Project, a personal project focusing on adventure/s
 ## Introduction
 
 This is a personal project aimed at learning and practical application, developed since February 2024. The current project includes all basic functionalities of an adventure survival game, although not yet complete, it is playable with ongoing updates for new features.
-![Alt Text](./Image/pcs1.png){:width="400px"}
+![Introduction](./Images/pcs1.png){:width="400px"}
 
 ## Features
 
