@@ -28,7 +28,8 @@ List the main features of your game:
   For example: smelting gold ore to gold, crafting sticks from wood, crafting torches from sticks and coal,...  
   <img src="./Images/cs1.png" style="width:400px;"/> <img src="./Images/cs2.png" style="width:400px;"/>  
 - Environments: The environment is a system comprising various functionalities such as automatic spawning of monsters or animals, day-night cycle and time system, interactive NPCs,...  
-- Player control system: Players have actions such as attack, mining, or dash. Additionally, players also have systems like experience, health, or food.
+- Player control system: Players have actions such as attack, mining, or dash. Additionally, players also have systems like experience, health, or food.  
+  <img src="./Images/pcs1.png" style="width:400px;"/> <img src="./Images/pcs2.png" style="width:400px;"/>  
 - NPC: Animals and enemies use the A* pathfinding system to navigate and approach players for attacks. Defeat these mobs to collect items such as experience or various other items.
 - Additionally, there are other functions that you can implement and explore. New features will be updated in the future.  
 
