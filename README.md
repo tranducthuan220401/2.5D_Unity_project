@@ -32,7 +32,7 @@ List the main features of your game:
   <img src="./Images/e1.png" style="width:400px;"/>
 - Player control system: Players have actions such as attack, mining, or dash. Additionally, players also have systems like experience, health, or food.  
   <img src="./Images/pcs1.png" style="width:400px;"/> <img src="./Images/pcs2.png" style="width:400px;"/>  
-- NPC: Animals and enemies use the A* pathfinding system to navigate and approach players for attacks. Defeat these mobs to collect items such as experience or various other items.  
+- NPC: Animals and enemies use the A* pathfinding system to navigate and approach players for attacks. Defeat these mobs to collect items such as experience or various other items. NPCs and quests are being updated    
    <img src="./Images/npc1.png" style="width:400px;"/>
 - Additionally, there are other functions that you can implement and explore. New features will be updated in the future.  
   <img src="./Images/a1.png" style="width:400px;"/>
